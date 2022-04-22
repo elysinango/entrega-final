@@ -1,0 +1,150 @@
+
+body{
+   background-color: #116CFF;
+}
+
+
+.menu{
+    margin-top: 42px;
+    display: flex;
+    align-items: center;
+    flex:20%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color:white;
+
+}
+
+
+.testimoy{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+   
+}
+
+
+.links p:hover {
+
+    border-bottom: 3px solid white;
+
+}
+
+
+
+.links a{
+    text-decoration: none;
+}
+
+.brand{
+    margin-left: 100px;
+    width: 129px;
+    height: 42px;
+    background: url(brand.png);
+}
+
+.links{
+    margin-left: 180px;
+    display: flex;
+    flex:70%;
+    justify-content: space-between;
+}
+
+
+.content-container{
+
+  margin-left: 100px;
+  display: flex;
+
+
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+}
+
+.img{
+     margin-top: 90px;
+     margin-bottom: 20px;
+     width: 632px;
+     height: 386.5px;
+     background: url(boyy.png) no-repeat;
+     padding: 5%;
+}
+
+.login{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700, bold;
+    color: #116CFF;
+    width: 104px;
+    height: 39px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+
+
+h1{
+    width: 500px;
+    height: 161px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 160%;
+    color:white;
+}
+
+.content p{
+    font-family: Inter;
+font-size: 18px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+    color : white;
+    height: 64px;
+width: 403px;
+left: 100px;
+top: 381px;
+border-radius: nullpx;
+
+}
+
+
+.first-button{
+    height: 52px;
+    width: 200px;
+    left: 100px;
+    top: 477px;
+    border-radius: 10px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #116CFF;
+    background: #FFFFFF;
+
+}
+
+.second-button{
+    width: 200px;
+   height: 52px;
+   background: #ffffff2a;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 10px;
+    color:white;
+}
